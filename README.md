@@ -1,2 +1,2 @@
-# Scikit---Fuzzy
+# Scikit Fuzzy
 EXEMPLO FUZZY  
